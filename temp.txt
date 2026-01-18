@@ -65,3 +65,4 @@ add cloudinary upload utility 1187926133
 add revenue analytics charts 504380601
 add enquiry controller logic 882175162
 fix booking issues 1343904389
+improve error handling 205305242
