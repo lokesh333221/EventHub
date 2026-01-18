@@ -66,3 +66,4 @@ add revenue analytics charts 504380601
 add enquiry controller logic 882175162
 fix booking issues 1343904389
 improve error handling 205305242
+add event editing functionality 30717453
