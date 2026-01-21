@@ -69,3 +69,4 @@ improve error handling 205305242
 add event editing functionality 30717453
 add payment model and razorpay integration 738462904
 implement event details page 1207754418
+cleanup unused components 1028236296
