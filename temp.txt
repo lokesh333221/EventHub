@@ -72,3 +72,4 @@ implement event details page 1207754418
 cleanup unused components 1028236296
 refactor event controllers 1738548709
 final ui polish and bug fixes 975485263
+add organizer dashboard components 910368325
