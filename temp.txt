@@ -75,3 +75,4 @@ final ui polish and bug fixes 975485263
 add organizer dashboard components 910368325
 add skeleton loaders 338950902
 implement login api with jwt 1134291648
+add event editing functionality 421699267
