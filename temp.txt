@@ -77,3 +77,4 @@ add skeleton loaders 338950902
 implement login api with jwt 1134291648
 add event editing functionality 421699267
 create frontend nextjs app structure 963868927
+fix authentication bugs 1366920418
