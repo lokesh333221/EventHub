@@ -79,3 +79,4 @@ add event editing functionality 421699267
 create frontend nextjs app structure 963868927
 fix authentication bugs 1366920418
 add cloudinary upload utility 903923252
+setup express server and mongodb connection 1131117970
