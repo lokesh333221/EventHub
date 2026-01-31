@@ -81,3 +81,4 @@ fix authentication bugs 1366920418
 add cloudinary upload utility 903923252
 setup express server and mongodb connection 1131117970
 setup multer middleware for uploads 1149704933
+implement favorites feature 1124823528
