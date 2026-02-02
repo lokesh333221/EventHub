@@ -84,3 +84,4 @@ setup multer middleware for uploads 1149704933
 implement favorites feature 1124823528
 final ui polish and bug fixes 2104504523
 implement event creation form 644938634
+add profile page functionality 479342342
