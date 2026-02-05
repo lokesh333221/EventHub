@@ -86,3 +86,4 @@ final ui polish and bug fixes 2104504523
 implement event creation form 644938634
 add profile page functionality 479342342
 add cloudinary upload utility 941836794
+add redux slices for state management 909710839
