@@ -88,3 +88,4 @@ add profile page functionality 479342342
 add cloudinary upload utility 941836794
 add redux slices for state management 909710839
 setup express server and mongodb connection 686208341
+implement nodemailer email utilities 2116879451
