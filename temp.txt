@@ -92,3 +92,4 @@ implement nodemailer email utilities 2116879451
 add profile page functionality 294988741
 implement homepage hero section 413688261
 add payment model and razorpay integration 1225319085
+implement user registration api 527444338
