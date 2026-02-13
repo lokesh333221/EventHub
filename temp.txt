@@ -96,3 +96,4 @@ implement user registration api 527444338
 implement nodemailer email utilities 95645903
 add redux slices for state management 846897957
 add refresh token utility 1549966464
+implement favorites feature 1500547272
