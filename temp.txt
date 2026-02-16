@@ -100,3 +100,4 @@ implement favorites feature 1500547272
 implement user management table 1363257699
 implement homepage hero section 1387493891
 optimize api services 703686184
+implement login api with jwt 307671996
