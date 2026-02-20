@@ -101,3 +101,4 @@ implement user management table 1363257699
 implement homepage hero section 1387493891
 optimize api services 703686184
 implement login api with jwt 307671996
+add user model and authentication middleware 1860413978
