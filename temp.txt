@@ -104,3 +104,4 @@ implement login api with jwt 307671996
 add user model and authentication middleware 1860413978
 implement assign event functionality 1043661424
 add toast notifications 1905738932
+add user model and authentication middleware 298102978
