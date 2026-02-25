@@ -106,3 +106,4 @@ implement assign event functionality 1043661424
 add toast notifications 1905738932
 add user model and authentication middleware 298102978
 setup multer middleware for uploads 1209084880
+add enquiry controller logic 1542639817
