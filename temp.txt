@@ -109,3 +109,4 @@ setup multer middleware for uploads 1209084880
 add enquiry controller logic 1542639817
 add payment model and razorpay integration 682183392
 create dashboard layout 1924096334
+add user model and authentication middleware 653613882
