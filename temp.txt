@@ -111,3 +111,4 @@ add payment model and razorpay integration 682183392
 create dashboard layout 1924096334
 add user model and authentication middleware 653613882
 implement nodemailer email utilities 164619970
+implement favorites feature 1042041864
