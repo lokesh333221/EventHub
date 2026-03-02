@@ -114,3 +114,4 @@ implement nodemailer email utilities 164619970
 implement favorites feature 1042041864
 add profile page functionality 89836590
 add event listing page 754719222
+fix api response handling 2094610272
