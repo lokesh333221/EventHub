@@ -117,3 +117,4 @@ add event listing page 754719222
 fix api response handling 2094610272
 improve dashboard responsiveness 618523704
 add toast notifications 1700044379
+add user model and authentication middleware 576969921
