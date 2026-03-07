@@ -119,3 +119,4 @@ improve dashboard responsiveness 618523704
 add toast notifications 1700044379
 add user model and authentication middleware 576969921
 implement user registration api 830710119
+add skeleton loaders 2000458341
