@@ -120,3 +120,4 @@ add toast notifications 1700044379
 add user model and authentication middleware 576969921
 implement user registration api 830710119
 add skeleton loaders 2000458341
+create event model and event controller 2137806903
