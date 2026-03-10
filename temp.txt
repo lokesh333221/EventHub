@@ -124,3 +124,4 @@ create event model and event controller 2137806903
 implement login api with jwt 898553356
 final ui polish and bug fixes 293112491
 add event listing page 1919579160
+setup multer middleware for uploads 1394634960
