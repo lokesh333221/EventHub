@@ -1,0 +1,66 @@
+fix api response handling 468690362
+add payment model and razorpay integration 1834342521
+setup express server and mongodb connection 1111550648
+add event editing functionality 1606262590
+add organizer dashboard components 2040872720
+implement category api routes 1591641257
+setup multer middleware for uploads 523872865
+create event model and event controller 1028671490
+add profile page functionality 1511022465
+refactor event controllers 1881040624
+add organizer dashboard components 1960524691
+add enquiry controller logic 1920558118
+implement login api with jwt 1490212826
+add revenue analytics charts 819596882
+implement favorites feature 1284100430
+implement user management table 1567484205
+final ui polish and bug fixes 1770788591
+add profile page functionality 722268064
+initialize eventhub project structure 634429010
+add event listing page 2109693819
+implement event details page 1193994606
+implement event creation form 239899935
+add revenue analytics charts 1183373200
+implement nodemailer email utilities 1530819099
+optimize api services 1765833702
+improve dashboard responsiveness 1757441513
+improve error handling 1878282728
+improve dashboard responsiveness 1013431535
+implement admin dashboard analytics 129018417
+implement assign event functionality 79691112
+implement homepage hero section 1824106536
+implement admin dashboard analytics 194114006
+fix authentication bugs 1492111698
+add skeleton loaders 364525540
+implement login api with jwt 101855342
+fix booking issues 1834545626
+implement nodemailer email utilities 76704465
+cleanup unused components 872198549
+add organizer dashboard components 278188456
+add category events filtering 1802741017
+setup express server and mongodb connection 1339059155
+add redux slices for state management 1618076474
+implement assign event functionality 1227911946
+implement homepage hero section 550579334
+create frontend nextjs app structure 421886355
+add otp generation and verification 39033594
+add event listing page 729601851
+implement user registration api 2114601225
+fix api response handling 920889520
+improve dashboard responsiveness 1400537092
+optimize api services 1091525354
+add toast notifications 491848606
+add cloudinary upload utility 1396246590
+implement user management table 1987938102
+add profile page functionality 300620307
+implement user registration api 983170645
+fix api response handling 1927776585
+optimize api services 365830416
+create dashboard layout 2053686868
+create frontend nextjs app structure 182493
+implement login api with jwt 182950681
+add profile page functionality 298064782
+implement category api routes 1260020996
+add cloudinary upload utility 1187926133
+add revenue analytics charts 504380601
+add enquiry controller logic 882175162
