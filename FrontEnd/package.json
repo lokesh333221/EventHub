@@ -54,7 +54,7 @@
     "next-themes": "^0.4.4",
     "razorpay": "^2.9.6",
     "react": "^19",
-    "react-day-picker": "8.10.1",
+    "react-day-picker": "^8.10.2",
     "react-dom": "^19",
     "react-hook-form": "latest",
     "react-redux": "^9.2.0",
@@ -63,7 +63,7 @@
     "sonner": "latest",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "vaul": "^0.9.6",
+    "vaul": "^1.1.2",
     "zod": "latest"
   },
   "devDependencies": {
