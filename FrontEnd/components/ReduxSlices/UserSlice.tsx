@@ -90,7 +90,7 @@ const InitialsState = {
         password:"",
         role:"",
         organization:"",
-        phone:9027130674,
+        phone:"",
         address:"",
         membershipType:"",
         enquiryId:"",
