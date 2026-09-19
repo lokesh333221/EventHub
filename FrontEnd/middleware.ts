@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
-export default function middleware(request: NextRequest) {
+export default  function middleware(request: NextRequest) {
   const role = request.cookies.get("role")?.value;
   const membershipType = request.cookies.get("membershipType")?.value;
   const { pathname } = request.nextUrl;
@@ -101,4 +101,5 @@ export const config = {
   matcher: [
     "/((?!_next/|api/|static/|images/|fonts/|favicon.ico|.*\\..*$).*)",
   ],
+  runtime: "nodejs",
 };
